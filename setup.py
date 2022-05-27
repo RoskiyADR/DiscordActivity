@@ -7,10 +7,10 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text(encoding="utf8")
 
 setup(
-	name="DiscordActivity",
+	name="acdis",
 	version="1.0.0",
 	author="MagMigo",
-	description="Use discord activities with your bot!",
+	description="Use a discord activities, with nextcord!",
 	long_description=README,
 	long_description_content_type="text/markdown",
 	url="https://github.com/MagM1go/DiscordActivity",
