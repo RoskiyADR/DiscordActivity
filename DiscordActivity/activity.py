@@ -1,5 +1,5 @@
-import disnake
-from disnake.ext import commands
+import nextcord as disnake
+from nextcord.ext import commands
 
 from .config import Request
 
